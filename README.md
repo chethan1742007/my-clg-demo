@@ -2,4 +2,4 @@
 this is my first git reposirtory
 <br>
 hi bro i am chethu<br>
-how are you ? <br>are you fine.
+how are you ? <br>are you good 
